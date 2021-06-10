@@ -1,0 +1,2 @@
+Hello everyone! This is Beta file.
+2nd git test file
