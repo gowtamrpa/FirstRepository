@@ -1,0 +1,10 @@
+sample text file using vi editor
+Gowtam
+Mounika
+Avula
+Mahith
+Anaga
+LakshmiPrasad
+Bindu
+RamaMurthy
+sai
